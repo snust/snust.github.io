@@ -2,7 +2,7 @@
 
 ---
 
-[Option Greek Dashboard](/snust/option-greeks)
+[Option Greek Dashboard](https://github.com/snust/option-greeks)
 
 <img src="images/Option-Greeks.png?raw=true"/>
 
