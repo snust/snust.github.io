@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 [Option Greek Dashboard](/option-greeks)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
