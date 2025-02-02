@@ -2,7 +2,8 @@
 
 ---
 
-[Option Greek Dashboard](/option-greeks)
+[Option Greek Dashboard](/snust/option-greeks)
+
 <img src="images/Option-Greeks.png?raw=true"/>
 
 ---
